@@ -2,7 +2,7 @@
 let first = document.querySelector('h2');
 console.log(first.innerText);
 // 2
-first.innerText = "Exercice 1 test
+first.innerText = "Exercice 1 test"
 
 // 3
 let third = first.nextElementSibling
